@@ -1,6 +1,9 @@
 
 〇昨日の内容
 整数の基数変換
+https://docs.google.com/document/d/1Yv_-Usv5Foxt2MslRbTgyuiBXlrVaUoqr2DD81I-7CU/edit?usp=sharing
+
+https://docs.google.com/document/d/1zro3VdBCs6wBdjZ1JoRfouFMZ-IGmxLOVBaAq01D8ow/edit?usp=sharing
 小数点以下の基数変換
 変換
 無限少数(桁の重みの数になってしまうもの？)
