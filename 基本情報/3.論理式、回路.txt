@@ -62,3 +62,9 @@ A, Bの両方が1、または両方が0だった場合、0を出力する
 →片方にだけ当てはまる場合限定
 -論理式：A ⊕ B = Y
 
+
+〇ド・モルガンの法則
+(A + B) = (A) ・ (B)
+
+〇一応法則まとめ
+https://www.eonet.ne.jp/~imagawa/denki_kiso/ronrishiki.html
