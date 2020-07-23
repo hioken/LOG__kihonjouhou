@@ -1,5 +1,6 @@
 create table use_ammos (
   id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+  weapon_id INT NOT NULL,
   normal_1 INT NOT NULL DEFAULT 0,
   normal_2 INT NOT NULL DEFAULT 0,
   normal_3 INT NOT NULL DEFAULT 0,
@@ -32,4 +33,8 @@ create table use_ammos (
   demon INT NOT NULL DEFAULT 0,
   armor INT NOT NULL DEFAULT 0,
   tranq INT NOT NULL DEFAULT 0,
+  CONSTRAINT fk_weapon_id
+    FOREIGN KEY fk_weapon_id(weapon_id)
+    REFERENCES weapons (id)
+    ON DELETE RESTRICT ON UPDATE CASCADE
 ):

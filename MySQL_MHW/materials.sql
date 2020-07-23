@@ -1,0 +1,7 @@
+create table materials (
+  id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+  name VARCHAR(50) NOT NULL,
+  rarity INT NOT NULL,
+  carry INT NOT NULL DEFAULT 1,
+  sell INT NOT NULL DEFAULT 1
+);
