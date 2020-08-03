@@ -1,0 +1,51 @@
+## サービス
+・ポート番号でサービスを認識し、対応のプロトコルを実行する
+・このポート番号とIPアドレスがセット
+
+〇種類
+port,  Protocol_name,                       introduction
+80,    HTTP(HyperText Transfer Protocol),   Webページ
+20 21, FTP(File Transfer Protocol),         File
+23,    Telnet,                              他のコンピュータへのログイン
+25,    SMTP(Simple Mail Transfer Protocol), 電子メールの送信、配送
+110,   POP(PostOffice Protocol),            電子メールの受信
+123,   NTP(Network Time Protocol),          コンピュータの時刻合わせ
+
+
+## HTTP(HyperText Transfer Protocol)
+・www(world wide web)に使われている
+・HTTP通信を行う
+・HTMLを使用
+
+
+## 電子メール
+〇メールアドレス
+ユーザ名@ドメイン名
+
+〇メールアドレスの宛先
+・TO
+宛先
+・CC
+Carbon Copy(複写に使われるカーボン紙からきてる)
+コピーを送る人
+・BCC
+Blind Carbon Copy
+非公開でコピーを送る人
+
+〇SMTP(Simple Mail Transfer Protocol)
+・メールを送信するプロトコル
+1.ユーザからMultipurpose Internet Mail Exposions形式で書かれたmailをサーバが受け取る
+2.サーバが相手サーバにMultipurpose Internet Mail Exposions形式で書かれたmailを送る
+
+〇POP(PostOffice Protocol)
+・メールを受信する
+1.POPクライアントからリクエストを受けとる
+2.サーバはクライアントにメールを返す
+
+〇IMAP(Internet Message Access Protocol)
+・メールを見る
+1.サーバ内のメールを見る
+
+
+〇MIME(Multipurpose Internet Mail Exposions)
+・メールをパート事にタイプ分けして、そこにMIMEタイプを記す事で、タイプ判別して変換する
