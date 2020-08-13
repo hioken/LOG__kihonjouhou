@@ -1,0 +1,10 @@
+kengennosikumi
+
+path, comandonosikumi
+
+shellnoiti
+
+権限の味方   
+pathの通し方
+コマンドの仕組み
+shellの位置
