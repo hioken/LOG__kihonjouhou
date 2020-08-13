@@ -58,8 +58,22 @@ https://www.fe-siken.com/kakomon/29_haru/q4.html
 
 
 〇明日
+## 基礎知識
+・絶対値とは？
+
+・標準方式とIEEE方式の正規化の説明を、それぞれ詳細にしろ
+
+・P30問５の説明
+
 ## OSS
-・以下のossの機能
+・以下のossの種類、機能
+Eclipse
+
+GCC
+
+Tomcat
+
+Apache
 
 
 ## メール
@@ -100,6 +114,8 @@ Corporate Social Responsibility
 
 〇弱いところ
 ・メール関係
+・誤差
+→教えてもらう
 ・基礎用語
 →知らない単語調べ続ける
 ・数学
