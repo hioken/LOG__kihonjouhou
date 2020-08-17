@@ -1,0 +1,42 @@
+〇セキュアプロトコル
+- SSL(Secure Socket Layer) / TLS(Transport Layer Security)
+・トランスポート層のプロトコル
+・WebブラウザとWebサーバ間で認証と暗号化通信を行う
+・サーバから電子証明書を受け取り、確認ができたら公開鍵暗号方式の共通鍵を送る
+・SSLをベースにしたものがTLSで、SSL3.0以降はTLS
+
+- HTTPS(HTTP over SSL/TLS)
+・SSLを使って、HTTP通信を暗号化して行う技術
+
+- IPsec(Security Architecture For Internet Protocol)
+・IP層で安全に通信を行うための技術の総称
+・IPv6から標準でサポートされている
+
+- S/MIME
+・公開鍵暗号方式で電子メールを暗号化する方式
+・送信側、受信側ともにS/MIMEに対応しているソフトが必要
+
+- WPA(Wi-Fi Protected Access)
+・無線LANの暗号化方式のセキュリティ規格
+・WPA3では、SEA(同一入力データの同時認証)による認証強化が行われた
+
+〇認証プロトコル
+- SMTP-AUTH(SMTP Authentication)
+・SMTPに認証機能を追加したもの、そのまんま
+
+- SPF(Sender Policy Framework)
+・メール版KPI
+・DNSサーバを使う
+
+〇セキュリティ技術
+- VPN(Virtual Private Network)
+・暗号化技術等で、安価な公衆網を仮想的な専用線として利用する技術
+・カプセル化するため社内LAN用にプライベートIPを用いたパケットも通信可能
+
+- ポートスキャナ
+・管理用ソフトウェア
+・ネットワーク上のコンピュータの各ポートにアクセスして、アクセス可能なポートや稼働中サービスを調べる
+・攻撃目的でも使われる
+
+- ハニーポット
+・脆弱性トラップ

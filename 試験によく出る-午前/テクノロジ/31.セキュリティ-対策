@@ -1,0 +1,19 @@
+〇不正アクセスへの対応
+- ペネトレーションテスト
+・ファイアウォール等のテスト
+- ディジタルフォレンジックス
+・犯罪捜査等で、電子記録を収集解析し、証拠とすること
+・証明にハッシュ値を利用する
+・原本と複製の同一性を証明する
+
+〇SIEM(Security Information and Event management)
+・ログ管理システム
+・リアルタイム
+
+〇IDS(intrusion Detection System) / IPS(Intrusion Prevention System)
+・コンピュータの挙動を監視する
+・不正な侵入を防ぐ
+
+〇MDM(Mobile Device Management)
+・モバイル端末用管理ツール
+・利用制限、紛失時の情報漏洩を防止する
