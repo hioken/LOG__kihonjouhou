@@ -1,0 +1,50 @@
+〇MACアドレス
+・前半がメーカー番号、後半が製造番号
+
+〇IPv6
+128ビットを16ビットずつ分けて16進数に変換する
+
+追加機能
+・IPアドレス自動設定(Plugin and Play)
+・IPSeeによるセキュリティ機能
+・効果的なルーティング機構
+
+## TCP/IP
+・ポート番号は、サーバサイドではサービス特定に使われて、クライアントサイドでは、NAPTの分散先(ルータから先の対象クライアント)識別に使われる
+・よって228pの問4はア
+
+## その他プロトコル
+〇第2層
+・PPP
+・PPPoE
+電子メールを送信、転送する
+
+〇第3層
+・ARP(Address Resolution Protocol)
+IPアドレスからMACアドレスを求める目的で以下を行う
+指定したIPアドレスを持つノードのMACアドレスをブロードキャストする
+
+〇第4層
+・TCP
+・UDP
+
+〇第7層
+- メール関連
+・SMTP
+・POP3
+・IMAP4(Internet Message Access Protocol)
+・MIME
+
+- ファイル転送
+・HTTP
+・FTP(File Transfer Protocol)
+・NNTP(Network News Transfer Protocol)
+
+- 管理用
+・DNS
+・DHCP(Dynamic Host Configuration Protocol)
+IPアドレスを割り振る
+・SNMP(Simple Network Management Protocol)
+TCP/IPにおいて、ネットワーク上の機器の管理を行う
+・NTP(Network Time Protocol)
+コンピュータの時間を表す
