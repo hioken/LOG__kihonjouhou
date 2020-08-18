@@ -67,8 +67,6 @@ CPUが周辺機器と周波数を調整する
 
 ・システムバスの性能は何と何で決まる？
 
-・WAFとは？
-
 
 ## 入出力装置
 ・イメージスキャナの仕組み
@@ -257,8 +255,6 @@ https://www.youtube.com/watch?v=YNvmSAFS60A
 ・262pの問1
 
 
-
-
 ## 暗合化
 ・RSAは何を元に暗合化している？
 
@@ -282,6 +278,19 @@ https://www.youtube.com/watch?v=YNvmSAFS60A
 
 ・リスクファイナンシングの手法2つ
 
+## セキュリティ-対策
+・ウイルス感染時の対処3ステップ
+
+・ディジタルフォレンジックスで証明できることは？
+
+・以下のセキュリティサービスの説明
+SIEM(Security Information and Event Management)
+
+IDS(intrusion Detection System) / IPS(intrusion Prevention System)
+
+MDM(Mobile Device Management)
+
+
 ## ネットワークセキュリティ
 ・SSL, HTTPSとは？、使われている技術と出来ること
 
@@ -297,17 +306,14 @@ https://www.youtube.com/watch?v=YNvmSAFS60A
 
 ・ポートスキャナでは何をする？
 
-## セキュリティ-対策
-・ウイルス感染時の対処3ステップ
 
-・ディジタルフォレンジックスで証明できることは？
+## アプリケーションセキュリティ
+・WAFとは？
 
-・以下のセキュリティサービスの説明
-SIEM(Security Information and Event Management)
+・セキュアプログラミングに当てはまるもの３つ以上
 
-IDS(intrusion Detection System) / IPS(intrusion Prevention System)
+・ファジングとは？
 
-MDM(Mobile Device Management)
 
 〇弱いところ
 ・メール関係
