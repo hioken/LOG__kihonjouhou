@@ -33,24 +33,29 @@
 #E
 - 全般
   Electronic
+- テクノロジ
+  Event
 - ストラテジ
   Enterprice:企業
+  Engineering:構築する
 
 #F
 - 全般
   Function
 - ストラテジ
   Factor:要因
+  Force:活用する、強化する
 
 #G
 - 全般
   Generate:生成
 
 #I
+- 全般
+  Information
 - テクノロジ
   Internet
 - ストラテジ
-  Information
   Investment:投資
   Intelligence:蓄積された知識、知性
 
@@ -67,8 +72,8 @@
 #M
 - 全般
   Model
-- マネジメント/ストラテジ
   Management
+- マネジメント/ストラテジ
   Media
   Manufacture:製造
 
@@ -106,6 +111,7 @@
 #S
 - 全般
   Softwere
+  Security
 - テクノロジ
   Server
 - ストラテジ
