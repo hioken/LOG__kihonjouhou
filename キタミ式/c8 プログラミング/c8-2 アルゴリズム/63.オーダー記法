@@ -1,66 +1,10 @@
+- 基礎アルゴリズムのオーダー記法
+※ log2 = 平方根
 
+線型探索法 O(n)
+2文探索法 O(log2n)
+ハッシュ法 O(1)
 
-
-
-
-
-
-
-
-
-
-y y
-xxx
-
-y y y
-xxx
-  xxx
-xxx
-
-y y y y
-xxx
-  xxx
-    xxx
-xxx
-  xxx
-xxx
-
-y y y y y
-xxx
-  xxx
-    xxx
-      xxx
-xxx
-  xxx
-    xxx
-xxx
-  xxx
-xxx
-
-y y y y y y
-xxx
-  xxx
-    xxx
-      xxx
-        xxx
-xxx
-  xxx
-    xxx
-      xxx
-xxx
-  xxx
-    xxx
-xxx
-  xxx
-xxx
-
-
-
-オーダー記法について質問させてください、どちらかというと数学の話になるのですが、なぜ基本のソートはO(n2)なのでしょうか？
-そもそもバブルソートはn2にならない気がします
-
-
-01 04 09 16 25 36
-    3  5  7  9 11
-
-01 03 06 10 15
+バブルソート, 選択ソート, 挿入ソート O(n2)
+シェルソート O(n1.2)
+クイックソート, ヒープソート O(nlog2n)
