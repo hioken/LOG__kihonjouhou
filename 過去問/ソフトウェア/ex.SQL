@@ -10,3 +10,9 @@ EXEC SQL OPEN X;
   EXEC SQL UPDATE
     ...
 EXEC SQL CLOSE X;
+
+〇絞り込み
+WHERE --条件を指定して、レコードを絞る(group by前)
+GROUP BY --指定した属性で、レコードをグループ化する
+HAVING --条件を指定して、GROUP BYで絞ったレコードを絞る
+ORDER BY --ソート
